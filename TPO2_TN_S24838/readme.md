@@ -57,16 +57,6 @@ Zadanie2/
 
 ---
 
-## 🚀 Getting Started
-
-### Requirements
-
-- JDK 8 or newer (Java 11+ preferred)
-- JavaFX SDK (if using JDK < 11)
-- IDE (e.g., IntelliJ IDEA or Eclipse) or command-line tools
-
----
-
 ### 💻 Running the App via IntelliJ IDEA
 
 1. **Import the project** into IntelliJ as a Java project.
